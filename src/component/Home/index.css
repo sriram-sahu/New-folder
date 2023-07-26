@@ -1,0 +1,24 @@
+.products-list-container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    height: 40vh;
+    overflow-y: scroll;
+    
+}
+@media screen and (max-width: 600px){
+    .products-list-container{
+        height: 80vh;
+    }
+}
+
+
+.category-button{
+    background-color: transparent;
+    border-width: 0px;
+    outline: none;
+    cursor: pointer;
+
+}
+

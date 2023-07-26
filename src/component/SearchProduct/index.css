@@ -1,0 +1,28 @@
+.no-search-img{
+    height: 300px;
+}
+.no-products-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 38vh;
+}
+.no-results-found-text{
+    color: #302557;
+    font-family: "Roboto";
+    font-size: 28px;
+
+}
+.no-results-found-description1{
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 0px;
+
+}
+.no-results-found-description2{
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 0px;
+}

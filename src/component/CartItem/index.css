@@ -1,0 +1,99 @@
+.list-cart-item-container{
+    list-style-type: none;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    width: 700px;
+    
+    
+}
+
+.cart-seller-text{
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.cart-image{
+    height: 130px;
+    width: 180px;
+}
+.cart-text-container{
+    margin-left: 20px;
+    margin-top: -20px;
+
+}
+.cart-title-text{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #048010;
+}
+.cart-description-text{
+    font-family: "Roboto";
+    color: #838786;
+    font-size: 14px;
+}
+.price-and-discount-container{
+    display: flex;
+    margin-top: -7px;
+}
+.price-container{
+    display: flex;
+    margin-right: 10px;
+}
+.price-icon{
+    margin-top: 18px;
+    margin-right: -2px;
+    font-size: 17px;
+}
+.cart-price-text{
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.cart-discount-text{
+    color: #048010;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.remove-button {
+    background-color: #0767f7;
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 12px;
+    height: 23px;
+    width: 60px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .quantity-container {
+    display: flex;
+    align-items: center;
+    margin-left:40px;
+  }
+  
+  .quantity-controller-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .quantity-controller-icon {
+    color: #616e7c;
+    width: 16px;
+    height: 16px;
+  }
+  .quantity {
+    color: #616e7c;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 24px;
+    margin-right: 24px;
+  }  
+  .hr-line{
+    box-shadow: 1px #616e7c;
+    border: 1px solid ;
+  }

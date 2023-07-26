@@ -1,0 +1,251 @@
+.product-item-main-container{
+    background-color: #dcdfe3;
+    padding-top: 20px; 
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 80.5vh;
+    
+}
+.product-images-container{
+    display: flex;
+    background-color: #fff;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    
+}
+.images-product{
+    height: 100px;
+    
+    width: 100px;
+    
+}
+.images-list{
+    display: flex;
+    
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 17px;
+    margin-left: 20px;
+}
+.main-product-image{
+    
+    height: 450px;
+    width: 550px;
+    
+}
+.button-image{
+    
+    background-color: transparent;
+    border: 1px solid #c7c1c1;
+    margin-right: 15px;
+    height: 110px;
+    width: 110px;
+    margin-top: 3px;
+    transition: border;
+    cursor: pointer;
+}
+.button-image:hover{
+    border: 2px solid #2a0e80;
+}
+.main-product-image-button{
+    background-color: transparent;
+    border: 1px solid #c7c1c1;
+    
+    
+    margin-top: 20px;
+    margin-right: 20px; 
+    height: 500px;
+    width: 600px;  
+}
+.add-to-cart-button{
+    display: flex;
+    background-color: #fca103;
+    cursor: pointer;
+    width: 289px;
+    height: 55px;
+    outline: none;
+    border-radius: 2px;
+    border-width: 0px;
+    margin-right: 20px;
+    padding-left: 80px;
+    
+    
+}
+.shopping-art-icon{
+    color: #fff;
+    margin-top: 15px;
+    font-size: 23px;
+    margin-right: 3px;
+    
+}
+.add-to-cat-text{
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 17px;
+    
+}
+.add-to-cart-and-buy-now-buttons{
+    display: flex;
+    margin-top: 20px;
+}
+.buy-now-button{
+    display: flex;
+    background-color: #fc5a03;
+    cursor: pointer;
+    width: 289px;
+    height: 55px;
+    outline: none;
+    border-radius: 2px;
+    border-width: 0px;
+    padding-left: 100px;
+    
+}
+.buy-now-icon{
+    color: #fff;
+    margin-top: 15px;
+    font-size: 23px;
+    margin-right: 3px;
+}
+.buy-now-text{
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 17px;
+}
+.title-text-products{
+    font-family: "Roboto";
+    color: #368f46;
+    font-size: 25px;
+}
+.span-text{
+    color: #393b3a;
+    font-size: 15px;
+}
+.description-text{
+    font-family: "Roboto";
+    color: #838786;
+    font-size: 19px;
+}
+.ratings-main-container{
+    display: flex;
+}
+.rating-container{
+    display: flex;
+    background-color: #048010;
+    height: 23px;
+    width: 40px;
+    padding-left: 2px;
+    border-radius: 5px;
+}
+.star-icon{
+    color: #fff;
+    font-size: 13px;
+    margin-top: 5px;
+    
+}
+.ratings-text{
+    font-family: "Roboto";
+    margin-right: 2px;
+   margin-top: 3px;
+    font-size: 15px;
+    margin-left: 5px;
+    
+}
+.rating-text{
+    font-family: "Roboto";
+    color: #fff;
+    margin-top: 6px;
+    font-size: 10px;
+    margin-left: 2px;
+    
+}
+.brand-text{
+    font-family: "Roboto";
+    color: #3f403e;
+    font-size: 17px;
+   
+}
+.span-brand-teaxt{
+    color: #048010;
+    font-family: "Roboto";
+    font-size: 17px;
+    
+}
+.discount-percentage-text{
+    font-family: "Roboto";
+    color: #3f403e;
+    font-size: 17px;
+}
+.category-text-products{
+    font-family: "Roboto";
+    color: #3f403e;
+    font-size: 17px;
+}
+.stock-text{
+    font-family: "Roboto";
+    color: #3f403e;
+    font-size: 17px;
+}
+.price-container{
+    display: flex;
+}
+.bi-ripee-icon{
+    margin-top: 20px;
+    font-size: 17px;
+    margin-right: -3px;
+}
+.price-text-products{
+    font-family: "Roboto";
+    color: #3f403e;
+    font-size: 17px;
+    margin-right: 5px;
+    margin-top: 18px;
+}
+.nav-home-container{
+    display: flex;
+    color: #a2a4a6;
+    cursor: pointer;
+}
+.nav-home-icon{
+    margin-top: 13px;
+    font-size: 10px;
+}
+.home-text{
+    font-size: 11px;
+    font-family: "Roboto";
+   
+}
+.text-container-main{
+    margin-top: -10px;
+}
+.quantity-container {
+    display: flex;
+    align-items: center;
+    margin-left:40px;
+  }
+  
+  .quantity-controller-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .quantity-controller-icon {
+    color: #616e7c;
+    width: 16px;
+    height: 16px;
+  }
+  .quantity {
+    color: #616e7c;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 24px;
+    margin-right: 24px;
+  }  
+.active-image{
+    border: 1px solid #0f1a85;
+}

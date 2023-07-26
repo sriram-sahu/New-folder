@@ -1,0 +1,26 @@
+.cart-list{
+    background-color: #fff;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+.place-order-button-container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.place-order-button{
+    background-color: #fc5a03;
+    cursor: pointer;
+    width: 289px;
+    height: 55px;
+    outline: none;
+    border-radius: 2px;
+    border-width: 0px;
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+}

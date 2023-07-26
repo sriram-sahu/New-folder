@@ -1,0 +1,70 @@
+.become-a-seleer-main-bg-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.all-products-text{
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 600;
+
+}
+.inputs-container-become-a-seller{
+    display: flex;
+}
+
+.become-a-seller-input{
+    height: 40px;
+    width: 450px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    font-family: "Roboto";
+    padding-left: 10px;
+}
+.beacome-a-seller-btn-container{
+    display: flex;
+    justify-content: center;
+}
+.become-a-seller-post-button{
+    height: 40px;
+    width: 80px;
+    background-color: #0767f7;
+    font-family: "Roboto";
+    color: #fff;
+    outline: none;
+    border-width: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+.successfull-msg-text{
+   
+    font-size: 16px;
+    font-family: "Roboto";
+    color: #5fb82c;
+    text-align: center;
+}
+.go-to-produtcs-button{
+    margin-top: 10px;
+    height: 40px;
+    width: 130px;
+    outline: none;
+    cursor: pointer;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #0767f7;
+    color: #fff;
+    font-family: "Roboto";
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.input-text{
+    font-family: "Roboto";
+    font-size: 13px;
+    margin-top: 0px;
+}

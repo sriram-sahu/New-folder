@@ -1,0 +1,74 @@
+.cart-summary-container{
+    margin-left: 20px;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+.cart-summary-price-details-text{
+    font-family: "Roboto";
+    color: #666665;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.cart-summary-hr-line1{
+
+    border: 1px solid #d9d9d7;
+
+}
+.cart-summary-text-container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cart-summary-price-details-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-summary-price-text{
+    font-family: "Roboto";
+}
+.cart-summary-price{
+    font-family: "Roboto";
+}
+.cart-summary-delivery-charges{
+    display: flex;
+    justify-content: space-between;
+}
+.delivery-charges-text{
+    font-family: "Roboto";
+}
+.free-text{
+    font-family: "Roboto";
+}
+.cart-summary-hr-line2{
+    border: 1px dotted #d9d9d7;
+    
+}
+.cart-summary-total-price-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-summary-totsl-price-text{
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 18px;
+}
+.cart-summary-rupee-icon-cotainer{
+    display: flex;
+}
+.cart-summary-icon1{
+    margin-top: 18px;
+    margin-right: -4px;
+}
+.cart-summary-icon2{
+    margin-top: 18px;
+    font-size: 19px;
+    font-weight: 600;
+    margin-right: -5px;
+}
+.cart-summary-total-price{
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 18px;
+}
+

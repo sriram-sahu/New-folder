@@ -1,0 +1,226 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.buy-now-cart-summary-container{
+    
+    border: 1px solid #b5b5b5;
+    margin-left: 40px;
+}
+.buynow-main-contanier{
+    display: flex;
+    height: 90vh;
+    
+}
+.form-main-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #f0faf9;
+    width: 50%;
+}
+.form-container{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.form-description{
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #454545;
+    
+
+}
+
+.input-element1{
+    height: 37px;
+    width: 280px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    font-family: "Roboto";
+    outline: none;
+    border-radius: 4px;
+    border: 1px solid #b5b5b5;
+    padding-left: 8px;
+    font-size: 12px;
+}
+.input-large-element{
+    height: 70px;
+    width: 584px;
+    font-family: "Roboto";
+    padding-top: -50px;
+    outline: none;
+    border-radius: 4px;
+    border: 1px solid #b5b5b5;
+    padding-left: 8px;
+    font-size: 12px;
+}
+.buy-now-image-container{
+    height: 89%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.buy-now-vector-img{
+    height: 500px;
+}
+
+.cart-summary-container{
+    margin-left: 20px;
+    height: 300px;
+    width: 400px;
+    margin-top: 20px;
+    background-color: #fff;
+}
+.cart-summary-price-details-text{
+    font-family: "Roboto";
+    color: #666665;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.cart-summary-hr-line1{
+
+    border: 1px solid #d9d9d7;
+
+}
+.cart-summary-text-container{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.cart-summary-price-details-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-summary-price-text{
+    font-family: "Roboto";
+}
+.cart-summary-price{
+    font-family: "Roboto";
+}
+.cart-summary-delivery-charges{
+    display: flex;
+    justify-content: space-between;
+}
+.delivery-charges-text{
+    font-family: "Roboto";
+}
+.free-text{
+    font-family: "Roboto";
+}
+.cart-summary-hr-line2{
+    border: 1px dotted #d9d9d7;
+    
+}
+.cart-summary-total-price-container{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-summary-totsl-price-text{
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 18px;
+}
+.cart-summary-rupee-icon-cotainer{
+    display: flex;
+}
+.cart-summary-icon1{
+    margin-top: 18px;
+    margin-right: -4px;
+    
+}
+.cart-summary-icon2{
+    margin-top: 18px;
+    font-size: 19px;
+    font-weight: 600;
+    margin-right: -5px;
+}
+.cart-summary-total-price{
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 18px;
+}
+.input-element3{
+    height: 39px;
+    width: 290px;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+    font-family: "Roboto";
+    outline: none;
+    border-radius: 4px;
+    border: 1px solid #b5b5b5;
+    padding-left: 8px;
+    font-size: 12px;
+    background-color: #fff;
+}
+.address-type-text{
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #616263;
+}
+.radio-input1{
+    margin-right: 5px;
+}
+.radio-label-text{
+    font-family: "Roboto";
+    font-size: 13px;
+    margin-right: 10px;
+
+}
+.span-buy-now{
+    font-size: 11px;
+    padding-left: 23px;
+}
+.submit-button-container{
+    display: flex;
+    justify-content: space-between;
+}
+.submit-button{
+    margin-top: 140px;
+    background-color: #fca103;
+    cursor: pointer;
+    width: 90px;
+    height: 35px;
+    outline: none;
+    border-radius: 4px;
+    border-width: 0px;
+    margin-right: 20px;
+    color: #fff;
+    font-size: 13px;
+    font-family: "Roboto";
+}
+.success-or-warning-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 45vh;
+}
+.success-image{
+    height: 70px;
+}
+.green-color{
+    font-family: "Roboto";
+    color: #5fb82c;
+}
+.black-color{
+    font-family: "Roboto";
+    color: red;
+}
+.buy-now-main-bg-container{
+    padding-left: 130px;
+    
+    
+}
+.continue-shoppingbutton{
+    margin-top: 10px;
+    height: 35px;
+    width: 130px;
+    outline: none;
+    cursor: pointer;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #0767f7;
+    color: #fff;
+    font-family: "Roboto";
+    
+
+}
